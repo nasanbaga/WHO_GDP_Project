@@ -1,2 +1,2 @@
 # WHO_GDP_Project
- codecademy project effort
+This is my first codecademy project effort.
